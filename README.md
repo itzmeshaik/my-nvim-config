@@ -7,6 +7,9 @@ A fork of kickstart.nvim that is:
 * Small
 * NOT Single-file
 * Completely Documented (NOT BY ME)
+* NOT good
+* Only for personal purposes.
+* NOT Better to use the original kickstart.nvim and make your own config.
 
 Simply my configuration that I built off of kickstart.nvim.
 
